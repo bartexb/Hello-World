@@ -1,2 +1,2 @@
 # Hello-World
-Github Tutorial/ Ideas/
+Hello World. I'm new here.
